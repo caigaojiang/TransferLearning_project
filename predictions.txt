@@ -1,0 +1,27 @@
+1 2
+2 2
+3 2
+4 2
+5 2
+6 2
+7 2
+8 2
+9 2
+10 1
+11 1
+12 1
+13 2
+14 1
+15 1
+16 1
+17 2
+18 2
+
+
+
+van gogh (1)
+jackson pollock (2)
+picasso (1)
+monet (1)
+Willem de Kooning (2)
+paul jenkins (2)
